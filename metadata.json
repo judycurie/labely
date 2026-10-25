@@ -1,0 +1,8 @@
+{
+  "name": "Tagify",
+  "description": "Generate watertight 3D-printable tags with minimal fillet bounding boxes, Helvetica typography, customizable holes, live millimeter dimension inspection, and instant STL export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
